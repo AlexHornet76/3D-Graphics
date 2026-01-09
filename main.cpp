@@ -1231,7 +1231,7 @@ int main(int argc, char* argv[])
     glutInitDisplayMode(GLUT_RGBA | GLUT_DEPTH | GLUT_DOUBLE);
     glutInitWindowPosition(100, 100);
     glutInitWindowSize((int)width, (int)height);
-    glutCreateWindow("Cyberpunk Alley - Shadow Mapping (3 lights)");
+    glutCreateWindow("Cyberpunk Alley");
     glewInit();
 
     Initialize();
@@ -1244,4 +1244,5 @@ int main(int argc, char* argv[])
 
     glutMainLoop();
     return 0;
+
 }
