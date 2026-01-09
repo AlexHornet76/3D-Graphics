@@ -1,2 +1,2 @@
-# 3D-Graphics
-3D Graphics Project
+# Proiect 2 - Grafică pe calculator
+Echipa 2 - Horneț Alex & Damian Alexandru
